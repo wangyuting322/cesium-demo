@@ -1,5 +1,6 @@
 <script>
 import * as Cesium from 'cesium'
+// import 'cesium/Build/Cesium/Widgets/widgets.css'
 // import 'cesium/Widgets/widgets.css'
 Cesium.Ion.defauleAccessToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiI0YWM2MmM2YS0yMjJmLTQ0N2EtODRjMy0xNmNmYWIxZDA5ZjUiLCJpZCI6NTk4MTksImlhdCI6MTY0MjQ3Mzg5MH0.G5jTxPgotKJioNARUKI21iYxJEtmV8rK3BOM8Fve5CE'
 const url = 'https://webst02.is.autonavi.com/appmaptile?style=6&x={x}&y={y}&z={z}'

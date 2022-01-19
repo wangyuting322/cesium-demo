@@ -62,7 +62,7 @@ module.exports = {
    * @doc https://cli.vuejs.org/zh/config/#publicpath
    * ---
    */
-  publicPath: process.env.VUE_APP_BASE,
+  publicPath: '/cesium/',
   /**
    * 去除 Source Map, 减小打包体积加速构建。
    * ---
